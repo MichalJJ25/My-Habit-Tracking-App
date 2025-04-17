@@ -39,7 +39,7 @@ Either put all the files into a new project, using a python-specific integrated 
 1. **Clone the Repository**:
    ```bash
    git clone [https://github.com/MichalJJ25/My-Habit-Tracking-App]
-   cd habit-tracker
+   cd My-Habit-Tracking-App
    ```
 
 2. **Set Up a Virtual Environment (optional)**:
@@ -70,7 +70,7 @@ Either start the main.py through the start-button of your IDE, or through comman
 
 1. Navigate to the project directory:
    ```bash
-   cd habit-tracker
+   cd My-Habit-Tracking-App
    ```
 
 2. Run the app:
@@ -135,13 +135,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 7. **License**: Specifies the license for your project.
 8. **Acknowledgments**: Adds a personal touch.
 
----
-
-### **Next Steps**
-1. Replace placeholders (e.g., `your-username`, `habit-tracker`) with your actual GitHub username and repository name.
-2. Add a `LICENSE` file to your repository if you haven’t already.
-3. Push the `README.md` to your GitHub repository.
-
----
-
-Let me know if you need help customizing this further or if you’d like me to review your README before you publish it! 😊
