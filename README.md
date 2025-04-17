@@ -38,7 +38,7 @@ Either put all the files into a new project, using a python-specific integrated 
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/habit-tracker.git
+   git clone [https://github.com/MichalJJ25/My-Habit-Tracking-App]
    cd habit-tracker
    ```
 
