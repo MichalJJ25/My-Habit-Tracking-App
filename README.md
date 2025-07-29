@@ -121,5 +121,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## Acknowledgments
 - Thanks to the people behind [Python](https://www.python.org/) for creating the programming language used.
 - Also thanks to [JetBrains] for developing the IDE "PyCharm" (https://www.jetbrains.com/pycharm/), which I used for this project.
-- Inspired by the need to finish a certificate and learn to code better.
 
