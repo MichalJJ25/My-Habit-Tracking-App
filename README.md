@@ -123,15 +123,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 - Also thanks to [JetBrains] for developing the IDE "PyCharm" (https://www.jetbrains.com/pycharm/), which I used for this project.
 - Inspired by the need to finish a certificate and learn to code better.
 
----
-
-### **Key Sections Explained**
-1. **Features**: Highlights what your app does.
-2. **Installation**: Provides clear steps to set up the app.
-3. **Database Setup**: Explains how the database works.
-4. **Running the App**: Explains how to start the app.
-5. **Usage**: Describes how to use the app’s features.
-6. **Testing**: Explains how to run unit tests.
-7. **License**: Specifies the license for your project.
-8. **Acknowledgments**: Adds a personal touch.
-
